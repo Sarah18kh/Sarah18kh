@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I’m Sarah Azzalddin
+🔍 Interests:
 
-<!--
-**Sarah18kh/Sarah18kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science
+Machine Learning
+Computer Vision
+Frontend & Backend Development
+Automation with Terraform & Docker (especially on AWS)
+🌱 Current Role: Data Engineer at LPL Financial
 
-Here are some ideas to get you started:
+💡 Collaboration Goals: I’m open to collaborating on projects that aim to improve the quality of life for people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education: Currently pursuing a Master’s in Electrical and Computer Engineering at SDSU.
